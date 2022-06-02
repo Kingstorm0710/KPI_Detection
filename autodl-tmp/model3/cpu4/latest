@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/autodl-tmp/model3/cpu4/variables.dat"
+all_model_checkpoint_paths: "/root/autodl-tmp/model3/cpu4/variables.dat"
